@@ -106,7 +106,7 @@ const showPage = (pageNum, list) => {
     for(let i = 0; i < list.length; i++){
         if(i < pageNum * studentsPerPage && i >= (pageNum - 1) * studentsPerPage){
             list[i].style.display = "block";
-            console.log(i);
+            console.log(i + 1);
         }
     }
 }  
