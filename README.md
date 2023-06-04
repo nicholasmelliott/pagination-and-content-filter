@@ -3,10 +3,15 @@
 This project uses JavaScript to dynamically paginate a long list of students and create a search bar to search through the list.
 
 ## Table of Contents
+- [Showcase](#showcase)
 - [Variables](#variables)
 - [Functions](#functions)
 - [Main Functions](#main-functions)
 - [Getting Started](#getting-started)
+
+## Showcase
+
+![Animated GIF](./paginationFilterExample.gif)
 
 ## Variables
 
