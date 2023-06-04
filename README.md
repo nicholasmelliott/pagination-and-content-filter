@@ -1,6 +1,6 @@
 # Student List Pagination
 
-This project uses JavaScript to dynamically paginate a long list of students and create a search bar to search through the list.
+The project incorporates a dynamic pagination system that generates numerical links based on the total number of students and the desired number of students per page. By clicking on these links, users can navigate through different pages, each displaying a set of students. Additionally, a convenient search function enables users to look up specific students or names. The search results will be presented on the relevant page(s), providing an efficient way to locate desired information.
 
 ## Table of Contents
 - [Showcase](#showcase)
